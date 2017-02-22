@@ -1,4 +1,4 @@
-# Wordpress Client with Ionic 2 For DpiCollge
+# Wordpress Client App with Ionic 2 For DpiCollge
 
 # Steps to use
 * clone this repo
