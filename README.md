@@ -7,3 +7,5 @@
 * Then ```ionic build android``` or ```ionic build ios```
 
 # Based on Ionic 2 Beta 10
+
+git clone https://github.com/baqeryan/dpi-wordpress-ionic2-app.git
